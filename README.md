@@ -15,4 +15,4 @@ Actual Features :
 
 
 
-*Credits to David Miller Youtube Tutorial on Neural Networks
+*Credits to David Miller Youtube Tutorial on Neural Networks*
