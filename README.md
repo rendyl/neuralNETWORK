@@ -6,13 +6,19 @@ Neural Network made From Scratch :
 
 **Actual Features :**
 - XOR Training
-- Text Language Recognition Training
+- Text Language Recognition (TLR) Training
   - English
   - French
   - Spanish
   - Italian
   - Dutch
- 
+
+**How does it work ?**
+- User chooses between testing XOR or TLR
+- User chooses how many Training displays he wants to see
+- **Network Creation**
+- **Network Training**
+
 **Architecture :**
 - Training Files are in Data/Training/
 - Testing Files are in Data/Testing/   
