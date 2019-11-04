@@ -6,7 +6,7 @@ Neural Network made From Scratch :
 
 **Actual Features :**
 - XOR Training :
-![GitHub Logo](/images/logo.png)
+![XOR Testing](/images/XOR.png)
 
 - Text Language Recognition Training :
   - English
@@ -14,7 +14,7 @@ Neural Network made From Scratch :
   - Spanish
   - Italian
   - Dutch
-![GitHub Logo](/images/logo.png)
+![Text Testing](/images/TEXT.png)
 
 
 *Credits to David Miller Youtube Tutorial on Neural Networks*
