@@ -1,8 +1,7 @@
-# neuralNetwork
+## neuralNetwork
 Gamagora 2019 - AI - Neural Network
 
-
-Neural Network made From Scratch :
+*Neural Network C++ made FromScratch*
 
 **Actual Features :**
 - XOR Training
