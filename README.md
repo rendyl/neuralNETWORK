@@ -8,11 +8,13 @@ Neural Network made From Scratch :
 - XOR Training :
 ![XOR Testing](/images/XOR.png)
 
-- Text Language Recognition Training : ![Text Testing](/images/TEXT.png)
+- Text Language Recognition Training : 
   - English
   - French
   - Spanish
   - Italian
   - Dutch
+![Text Testing](/images/TEXT.png)
+  
 
 *Credits to David Miller Youtube Tutorial on Neural Networks*
