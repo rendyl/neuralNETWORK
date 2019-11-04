@@ -12,3 +12,7 @@ Actual Features :
   - Spanish
   - Italian
   - Dutch
+
+
+
+*Credits to David Miller Youtube Tutorial on Neural Networks
