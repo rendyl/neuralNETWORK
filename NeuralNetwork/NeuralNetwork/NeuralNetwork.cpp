@@ -105,20 +105,6 @@ std::vector<double> getFrequencyFromText(std::string filename)
 
 	inFile.close();
 
-	/*
-	std::cout << "The Frequency of the capital letters are: " << std::endl;
-	for (char caps = 'A'; caps <= 'Z'; caps++)
-	{
-		std::cout << "Letter " << caps << " is " << frequency[caps] << " times." << std::endl;
-	}
-
-	std::cout << "The Frequency of the lower case letters are: " << std::endl;
-	for (char lower = 'a'; lower <= 'z'; lower++)
-	{
-		std::cout << "Letter " << lower << " is " << frequency[lower] << " times." << std::endl;
-	}
-	*/
-
 	std::vector<double> letterFreq;
 	for (char caps = 'A'; caps <= 'Z'; caps++) letterFreq.push_back((double)frequency[caps]);
 	int i = 0;
