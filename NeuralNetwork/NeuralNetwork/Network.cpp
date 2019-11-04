@@ -7,7 +7,7 @@ Network::Network(const std::vector<unsigned>& topology)
 	unsigned numLayers = topology.size();
 	for (unsigned layerNb = 0; layerNb < numLayers; layerNb++)
 	{
-		std::cout << "Added a Layer" << std::endl;
+		std::cout << std::endl << "Added a Layer" << std::endl;
 		// On ajoute une couche
 		layers.push_back(Layer());
 		unsigned nbOutputs = (layerNb == topology.size() - 1) ? 0 : topology[layerNb + 1];

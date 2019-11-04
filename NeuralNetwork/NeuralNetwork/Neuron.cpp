@@ -11,7 +11,7 @@ static double fctTransfert(double x)
 	return tanh(x);
 }
 
-double Neuron::eta = 0.15;
+double Neuron::eta = 0.3;
 double Neuron::alpha = 0.5;
 
 double Neuron::sumDOW(const std::vector<Neuron>& nextLayer) const
