@@ -1,4 +1,4 @@
-# neuralNetwork
+# neuralNETWORK
 Gamagora 2019 - AI - Neural Network
 
 *Neural Network C++ made FromScratch*
